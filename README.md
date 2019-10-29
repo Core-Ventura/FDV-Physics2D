@@ -18,4 +18,6 @@ Los elementos con restricciones correspondientes son:
 3) **Objeto arrastrado a una distancia fija:** el jugador arrastra una bola de hierro negra.
 4) **Objeto que al colisionar con otros sigue un comportamiento totalmente físico:** los cubos que caen y son arrastrados por el viento e impactan con un gran bloque.
 
+![](Gif-FDV3.gif)
+
 
